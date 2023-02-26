@@ -1,5 +1,8 @@
 # WeatherApp
 
+![Captura web_26-2-2023_201758_localhost](https://user-images.githubusercontent.com/116908552/221443619-ca811591-c419-4ae3-b9f0-ce784bc7afbc.jpeg)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.6.
 
 ## Development server
